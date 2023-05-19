@@ -1,0 +1,2 @@
+# pymail
+Emailing from python
